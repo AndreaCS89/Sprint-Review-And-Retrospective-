@@ -1,4 +1,4 @@
-# Sprint-Review-And-Retrospective-
+# Sprint Review And Retrospective
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
